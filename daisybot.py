@@ -10,12 +10,12 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 # BOT TOKEN (genrate from bot father)
-TOKEN = 'bot_token'
+TOKEN = ⁠'8519901737:AAEdipMiBKbH14s77dlmBXEFH4V-fDiSQWQ'⁠
 
 user_data = {}
 
 # Bot owner details
-OWNER_ID = YOUR_USERID
+OWNER_ID = 8868774219
 OWNER_USERNAME = "@realcodedbyom"
 
 def is_owner(user_id: int) -> bool:
