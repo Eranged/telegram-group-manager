@@ -10,7 +10,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 # BOT TOKEN (genrate from bot father)
-TOKEN = "8519901737:AAFQ8cGTiOBijIQI6skvZiT_l1LrKqEkG-8"
+TOKEN = "8296100701:AAHo0DwDs1vXtrvEQeS1-ZI2eXF68SYir28"
 
 
 
